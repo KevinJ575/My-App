@@ -3,8 +3,6 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { createStackNavigator } from "@react-navigation/stack";
 
-
-
 //importar screen Principal
 import MenuPrincipal from "./screen/Dash/MenuPrincipal";
 import ScreenLuces from "./screen/Luces/ScreenLuces";
