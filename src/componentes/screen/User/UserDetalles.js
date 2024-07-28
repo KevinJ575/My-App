@@ -4,7 +4,7 @@ import React from 'react'
 const UserDetalles = () => {
   return (
     <View>
-      <Text>Nombre: Marce</Text>
+      <Text>Nombre: Kevin</Text>
       <Text>Info....</Text>
       <Text>Tel: 9841406132</Text>
     </View>

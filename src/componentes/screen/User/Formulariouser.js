@@ -4,7 +4,7 @@ import React from 'react'
 const Formulariouser = () => {
   return (
     <View>
-      <Text>Formulariouser</Text>
+      <Text>Formulario user</Text>
     </View>
   )
 }

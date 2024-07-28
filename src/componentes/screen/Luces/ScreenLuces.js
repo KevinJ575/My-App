@@ -4,7 +4,7 @@ import React from 'react'
 const ScreenLuces = () => {
   return (
     <View>
-      <Text>ScreenLuces</Text>
+      <Text>Screen Luces</Text>
     </View>
   )
 }

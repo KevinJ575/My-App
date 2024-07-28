@@ -21,7 +21,7 @@ const ScreenSetting = () => {
     <View>
       <Text>Autor: Kevin Jair Reyes Sanchez</Text>
       <Button style={{marginTop:20}} icon="logout" mode="contained" onPress={() => cerrarsesion()}>
-        Cerrar Seccion
+        Cerrar Sesion
       </Button>
     </View>
   )

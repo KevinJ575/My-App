@@ -103,7 +103,7 @@ const Logginp2 = () => {
         Ingresar
         </Button>
       <Button theme={{ colors: { primary: '#C469D8' } }} style={{marginTop:20}} icon="login" mode="contained" onPress={crearcuenta}>
-       crearcuenta
+       crear cuenta
         </Button>
         
         

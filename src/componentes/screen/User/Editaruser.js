@@ -4,7 +4,7 @@ import React from 'react'
 const Editaruser = () => {
   return (
     <View>
-      <Text>Editaruser</Text>
+      <Text>Editar user</Text>
     </View>
   )
 }
